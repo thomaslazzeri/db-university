@@ -14,7 +14,7 @@ Pensiamo a quali entità (tabelle) creare per il nostro database e cerchiamo poi
 Utilizzare https://drawsql.app/ per la creazione dello schema.
 Esportare quindi il diagramma in jpg e caricarlo nella repo.
 
-FINE ESERCIZIO
+FINE PRIMO ESERCIZIO
 
 ESERCIZIO MYSQL
 
@@ -22,3 +22,12 @@ Dopo aver creato un nuovo database nel vostro MySQL Workbench e aver importato l
 
 Cosa consegnare?
 Dopo aver testato le vostre query con MySQL Workbench, riportatele in un file txt e caricatelo nella vostra repo.
+
+FINE SECONDO ESERCIZIO
+
+ESERCIZIO MYSQL CON AGGIUNTE
+
+Utilizzando lo stesso database di ieri, eseguite le query in allegato.
+Caricate un secondo file nella stessa repo di ieri (db-university) con le query di oggi.
+
+FINE TERZO ESERCIZIO

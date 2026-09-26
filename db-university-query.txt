@@ -1,6 +1,7 @@
--- 1 Selezionare tutti gli studenti nati nel 1990 (160)
+-- Per usare i dati del database
 USE db_university;
 
+-- 1 Selezionare tutti gli studenti nati nel 1990 (160)
 select * from students
 where year(date_of_birth) = 1990;
 
